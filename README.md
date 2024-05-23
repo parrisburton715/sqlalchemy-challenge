@@ -29,15 +29,15 @@ To run the code, ensure you have the following libraries installed:
     cd sqlalchemy-challenge
     ```
 
-3. Execute the Python script `climate_analysis_part1.py`:
+3. Execute the Python script `climate_starter.ipynb`:
 
     ```
-    python climate_analysis_part1.py
+    climate_starter.ipynb
     ```
 
 ## Contents
 
-- **climate_analysis_part1.py**: Python script containing the code for Part 1 of the analysis.
+- **climate_starter.ipynb**: Python script containing the code for Part 1 of the analysis.
 - **Resources**: Directory containing the SQLite database (`hawaii.sqlite`) used in the analysis.
 
 ## Analysis Steps
