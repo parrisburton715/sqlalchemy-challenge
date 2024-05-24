@@ -72,31 +72,9 @@ To run the code, ensure you have the following libraries installed:
 - #sqlalchemy
 - #datetime
 
-## Usage
-
-1. Clone the repository to your local machine:
-
-    ```
-    git clone <repository_url>
-    ```
-
-2. Navigate to the cloned directory:
-
-    ```
-    cd sqlalchemy-challenge
-    ```
-
-3. Execute the Python script `climate_app.py`:
-
-    ```
-    python climate_app.py
-    ```
-
-4. Once the Flask server is running, you can access the API endpoints using a web browser or a tool like Postman.
-
 ## Contents
 
-- **climate_app.py**: Python script containing the Flask application code to set up the API endpoints.
+- **climate_starter.ipynb**: Python script containing the Flask application code to set up the API endpoints.
 - **Resources**: Directory containing the SQLite database (`hawaii.sqlite`) used in the analysis.
 
 ## API Endpoints
